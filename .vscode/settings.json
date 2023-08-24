@@ -4,5 +4,6 @@
         "Amnt",
         "Bolam",
         "Jaiz"
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
